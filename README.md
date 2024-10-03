@@ -1,4 +1,5 @@
 # Quizzler - Python Quiz App
+![Screenshot 2024-10-03 224156](https://github.com/user-attachments/assets/09bf9f37-e9d5-4020-a8cc-4d67106f918f)
 
 This is a Python-based quiz application that retrieves questions from the Open Trivia Database API and allows users to answer True/False questions through a graphical user interface (GUI) built using `tkinter`. The application demonstrates how to interact with external APIs to retrieve data dynamically, parse the data, and use it to drive the logic and user experience of the application.
 
